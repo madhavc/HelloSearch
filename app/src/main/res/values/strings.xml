@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloSearch</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="yelp_consumer_key">PLV3AX-PtJsOzyZ5IfuEBg</string>
+    <string name="yelp_consumer_secret">SRA1euYDidW8sa3f87Xy4_ed0Ng</string>
+    <string name="yelp_token">Bj9u37Yu6I70txiaGa-JeL3ZKIjP2N9D</string>
+    <string name="yelp_token_secret">3O-OSMyFE4jsQnNtV7MJ0bD4rBE</string>
+
+    <string name="business_name">BusinessName</string>
+    <string name="clear_image_description">Clear Search View Image</string>
+</resources>
